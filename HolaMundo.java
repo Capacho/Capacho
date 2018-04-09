@@ -5,7 +5,7 @@ public class HolaMundo{
 		String naranja="\033[33m";
 		String azul = "\033[34m";
 
-		System.out.println("¡Hola mundo!");
-		System.out.println("Linea de proba para version");
+		System.out.println(naranja+"¡Hola mundo!");
+		System.out.println(azul+"Linea de proba para version");
 	}
 }
